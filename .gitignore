@@ -1,0 +1,7 @@
+# ignore .idea
+.idea
+.idea/*
+
+# ignore compiled java files
+*.class
+out/

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transports_array">
+        <item>walking</item>
+        <item>biking</item>
+        <item>transit</item>
+        <item>driving</item>
+    </string-array>
+</resources>
